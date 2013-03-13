@@ -4,17 +4,17 @@ ng-map
 A simple Google Maps implementation for Angular. Nobody should use this....
 
 What is this?
-======
+-----
 
 I couldn't find a Google Maps implementation for Angular that worked the way I wanted it to. This is what I am working towards
 
 How do I use it?
-======
+-----
 
 You shouldn't. It's made for a very specific purpose right now.
 
 But what if I *REALLY* want to?
-======
+-----
 
 Set up is pretty simple. You'll need Angular's scripts included, and also the Google Maps V3 JS API. After that, include this as a dependency:
 
